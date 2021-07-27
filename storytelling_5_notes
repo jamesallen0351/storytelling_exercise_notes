@@ -1,0 +1,44 @@
+Storytelling 5 - Project Checkpoint 1: Create Your Recommendation and Story
+
+James Allen
+July 27, 2021
+
+1 - your initial thoughts and question(s) from exploring the Telco data during the Spreadsheets lesson and exercises
+
+What is Telco? Phone? Internet? Combination of Phone and internet (Combo)?
+Is there a TV option? Why or Why Not?
+What are the contract terms? Am I locked into a contract time period? Locked into a price? What are the different prices per contract (phone, internet, combo)?
+Are there any affiliated savings for the services? Promotional savings?
+Any customer loyalty programs / rewards programs ?
+How much does it cost? Phone, internet, combo
+Averages / baseline / overtime
+What is the market value / price of these products and how does Telco compare? Higher / lower / equal to
+-incentives?
+
+It looks like the lowest monthly prices are in the first few months and then there is a steady increase in price after the 25th month of service. This equates to a 28% increase every 10 months which does seem high.
+The average monthly tenure of month to month (m2m) customers is 18 months
+This puts m2m customers on the lower end of tenure avg and monthly payment avg.
+
+Monthly Average:
+Total $64
+M2m $66
+1yr $65
+2yr $66
+
+Looking at the data of the monthly averages, it looks like there is a range of $6. This is not a large difference and does not offer value or incentive for the extended plans since the price comparison is low.
+I would like to further break down each plan and the avg monthly payment for phone, internet, combo compared to m2m, 1yr, 2yr for further analysis
+
+Build the Story
+
+1. Why are Month to Month (m2m) Telco customers churning?
+2. Goal: Keep existing Telco customers and reduce churn with a focus on m2m customers.
+3. Recommendation: Locked in m2m pricing (Standardized)
+    28% price increase every 10 months
+    m2m avg 18 months
+    m2m customers taking advantage of low entry pricing and the leave as prices increase
+4. Action / Proposal: Create a higher standardized pricing convention for the m2m plans (higher than avg) and make that a locked in / fixed rate (premium).
+    Customers are paying a premium for the m2m membership but have the piece of mind of no drastic price increase over time
+    More likely to continue past 18 month tenure mark
+    Premium price >= avg 1yr, 2yr, etc.
+
+

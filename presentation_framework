@@ -1,0 +1,20 @@
+Title slide : Title, Name, Date
+
+Agenda slide: topics to be covered
+
+Executive summary slide. (Your Big Idea, Goal, key finding(s), recommendation).
+
+Overview about your data sample to give context...who are they? are they a subsample of the original? How many people are churning over all? Establish the problem. Yes, we have an issue! 
+
+Visualization of the issue you found 
+
+Recommendation you are making
+
+Visualization of changes expected if action is taken.
+
+Conclusion and next steps (“with more time, I would like to…”, e.g.)
+
+Appendix slides are included with info such as…
+a data dictionary (data definitions)
+sample explanations (i.e. the subset, the types of customers (month-to-month, internet only customers, e.g.)).
+an aggregate table of summary data in the background of your chart(s) (this can be created easily in tableau...right click on chart and say "create 
