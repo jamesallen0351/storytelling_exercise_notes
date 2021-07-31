@@ -31,11 +31,15 @@ I would like to further break down each plan and the avg monthly payment for pho
 Build the Story
 
 1. Why are Month to Month (m2m) Telco customers churning?
+ - customers are seeing a 28% increase in price every 10 months
+ - m2m customers are churning at the 18 month point where prices continue to increase
+ - $6 range between m2m, 1yr, and 2yr customers.
+ - m2m customers taking advantage of low entry pricing and the leave as prices increase
 2. Goal: Keep existing Telco customers and reduce churn with a focus on m2m customers.
 3. Recommendation: Locked in m2m pricing (Standardized)
-    28% price increase every 10 months
-    m2m avg 18 months
-    m2m customers taking advantage of low entry pricing and the leave as prices increase
+    Standard Premium pricing to add $6 range to m2m customers
+    Maintain premium pricing up to and beyond 18 month point
+    Continue premium charges past 18 month point
 4. Action / Proposal: Create a higher standardized pricing convention for the m2m plans (higher than avg) and make that a locked in / fixed rate (premium).
     Customers are paying a premium for the m2m membership but have the piece of mind of no drastic price increase over time
     More likely to continue past 18 month tenure mark
